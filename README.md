@@ -7,7 +7,7 @@ An example of garage door built with React
 
 ![Garage Door](demo/garagedoor.gif)
 
-The running example is here: [garagedoor](https://cjz25.github.io/garagedoor)
+The running example is here: [garagedoor](https://cjz25.github.io/GarageDoor)
 
 
 ## Table of contents
