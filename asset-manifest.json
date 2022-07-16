@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/garagedoor/static/css/main.8a471d38.css",
+    "main.js": "/garagedoor/static/js/main.bdc0e279.js",
+    "index.html": "/garagedoor/index.html",
+    "main.8a471d38.css.map": "/garagedoor/static/css/main.8a471d38.css.map",
+    "main.bdc0e279.js.map": "/garagedoor/static/js/main.bdc0e279.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a471d38.css",
+    "static/js/main.bdc0e279.js"
+  ]
+}
